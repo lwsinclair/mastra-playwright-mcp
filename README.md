@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/walnut-pro-mastra-playwright-mcp-badge.png)](https://mseep.ai/app/walnut-pro-mastra-playwright-mcp)
+
 # Mastra Playwright MCP
 
 このプロジェクトは、Mastraを使用してPlaywrightのブラウザ自動化を実装するためのテンプレートプロジェクトです。
